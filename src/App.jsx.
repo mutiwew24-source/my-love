@@ -1,0 +1,11 @@
+
+import React from 'react'
+
+export default function App() {
+  return (
+    <main>
+      <h1>JEDA</h1>
+      <p>Temukan jeda di tengah ramainya dunia digital.</p>
+    </main>
+  )
+}
